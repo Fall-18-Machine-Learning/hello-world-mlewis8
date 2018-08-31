@@ -3,7 +3,7 @@
 
 
 def helloWorld() :
-	print("Hello World, for Friday")
+	print("Hello World, for Friday, and Monday ")
 
 
 
